@@ -24,7 +24,7 @@ All data is stored locally on your device and is not transmitted anywhere.
 
 ## Contact
 If you have questions about this privacy policy, you can contact:
-[Your Email Address]
+adisbrandon99@gmail.com
 
 ## Changes
 This privacy policy may be updated occasionally. Any changes will be posted here.
